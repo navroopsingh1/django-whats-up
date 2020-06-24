@@ -25,7 +25,7 @@ SECRET_KEY = '3w+m2%0mxqt(e4(t8l)(#q+#+e4b2t=euv5k4g4ys-f2qlvw59'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['whats-up-django-blog.herokuapp.com']
 
 
 # Application definition
