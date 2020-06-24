@@ -1,1 +1,1 @@
-web: gunicorn django-blog.wgsi
+web: gunicorn project_ek.wgsi
