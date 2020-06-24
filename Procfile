@@ -1,1 +1,1 @@
-web: gunicorn project_ek.wgsi
+web: gunicorn project_ek.wsgi
